@@ -1,6 +1,9 @@
 # Starbucks Capstone Challenge
 
 ## Project Overview
+
+[Read the full blog post here]([http://your-blog-post-link.com](https://medium.com/@sibongilemanyate99/predicting-customer-response-to-starbucks-offers-813a6ffd8c4d))
+
 This project aims to analyze customer behavior on the Starbucks rewards mobile app by combining transaction, demographic, and offer data to determine which demographic groups respond best to different types of offers. The goal is to develop a model to predict whether a customer will respond to an offer and to recommend the optimal offers based on customer demographics.
 
 ## Data Description
@@ -48,6 +51,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 After performing the analysis, we found that while the Random Forest model helped identify patterns, it still struggled with predicting offer completions due to the class imbalance in the data. By using class weights and tuning the hyperparameters, we were able to improve performance, but there is still room for improvement.
 
 The business implications suggest that targeting specific demographics who are more likely to complete offers can optimize marketing strategies. However, more work is needed to improve predictive accuracy, and further experimentation with model tuning and feature engineering will be essential.
+
 
 ## How to Use
 1. Download the dataset and place the portfolio.json, profile.json, and transcript.json files in the working directory.
