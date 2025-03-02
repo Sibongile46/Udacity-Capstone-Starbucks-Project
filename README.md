@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-[Read the full blog post here]([http://your-blog-post-link.com](https://medium.com/@sibongilemanyate99/predicting-customer-response-to-starbucks-offers-813a6ffd8c4d))
+[Read the full blog post here](https://medium.com/@sibongilemanyate99/predicting-customer-response-to-starbucks-offers-813a6ffd8c4d)
+
 
 This project aims to analyze customer behavior on the Starbucks rewards mobile app by combining transaction, demographic, and offer data to determine which demographic groups respond best to different types of offers. The goal is to develop a model to predict whether a customer will respond to an offer and to recommend the optimal offers based on customer demographics.
 
